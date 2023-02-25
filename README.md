@@ -35,7 +35,7 @@ me.say_hi()
 
 
 <a href="https://github.com/standardAI/standardAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=standardAI&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Tolga's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" alt="Tolga's GitHub Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
