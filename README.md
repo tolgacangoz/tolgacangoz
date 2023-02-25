@@ -48,8 +48,3 @@ me.say_hi()
 <a href="https://github.com/standardAI/Machine-Learning-Practices">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=standardAI&repo=Machine-Learning-Practices&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Machine Learning Practices" />
 </a>
-
-
-## 👨‍💻 This week, I spent my time on:
-
-[![Tolga's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=standardAI&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats) -->
