@@ -1,7 +1,7 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tolga.tolga)
+<--! [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
 ```python
@@ -31,12 +31,13 @@ me.say_hi()
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
-## GitHub Stats
 
+## GitHub Stats
 
 <a href="https://github.com/standardAI/standardAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=standardAI&show_icons=true&theme=tokyonight" alt="Tolga's GitHub Stats" />
 </a>
+
 
 ## 🏆 GitHub Trophies
 
