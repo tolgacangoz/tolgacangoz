@@ -32,17 +32,12 @@ me.say_hi()
 ## GitHub Stats
 
 <a href="https://github.com/standardAI/standardAI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=standardAI&show_icons=true&theme=tokyonight" alt="Tolga's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgacangoz&show_icons=true&theme=tokyonight" alt="Tolga's GitHub Stats" />
 </a>
 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=standardAI&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tolgacangoz&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/standardAI/ML-Practices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=standardAI&repo=ML-Practices&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Machine Learning Practices" />
-</a>
