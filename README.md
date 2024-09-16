@@ -36,8 +36,8 @@ me.say_hi()
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgacangoz&show_icons=true&theme=tokyonight" alt="Tolga's GitHub Stats" />
 </a>
 
-
+<!--
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tolgacangoz&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+-->
